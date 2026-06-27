@@ -10,15 +10,14 @@
 
 <table>
   <tr>
-    <td rowspan="11" width="44%"><img src="token-guardians-hero.png" width="100%" alt="토큰 지키미" /></td>
+    <td rowspan="10" width="44%"><img src="token-guardians-hero.png" width="100%" alt="토큰 지키미" /></td>
     <td width="20%"><b>소개</b></td>
     <td>claude.ai 토큰 잔량을 메뉴바와 데스크탑 캐릭터로 라이브로 보여주는 앱. 질문을 던지면 5분 프롬프트 캐시 타이머가 돌고, 만료 전 지키미가 흔들려 캐시 골든타임을 놓치지 않게 도와준다.</td>
   </tr>
-  <tr><td rowspan="5"><b>기능</b></td><td>메뉴바에서 토큰 잔량 실시간 표시</td></tr>
+  <tr><td rowspan="4"><b>기능</b></td><td>메뉴바에서 토큰 잔량 실시간 표시</td></tr>
   <tr><td>데스크탑 캐릭터(펫)로 잔량 시각화</td></tr>
   <tr><td>5분 프롬프트 캐시 타이머, 만료 전 캐릭터가 흔들려 신호</td></tr>
   <tr><td>캐릭터 스킨 교체 (판다 · 고양이 · 햄스터 · 강아지 …)</td></tr>
-  <tr><td>앱 내 자동 업데이트</td></tr>
   <tr><td><b>지원 OS</b></td><td>macOS 11+ (서명 · 공증 완료) &nbsp;·&nbsp; Windows 11+</td></tr>
   <tr><td><b>처음 만든 기간</b></td><td>2026.04 ~ 진행 중</td></tr>
   <tr><td><b>버전</b></td><td><code>v2.35.0</code></td></tr>
@@ -86,4 +85,4 @@
 
 ---
 
-<sub>🤖 모든 코드 · 개발은 <b>Claude Code</b>로, 캐릭터 · 이미지 디자인은 <b>Gemini</b>로 작업했습니다.</sub>
+<sub>🤖 모든 코드 · 개발은 <b>Claude Code</b>와 <b>Codex</b>로, 캐릭터 · 이미지 디자인은 <b>Gemini</b>로 작업했습니다.</sub>
