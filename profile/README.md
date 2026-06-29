@@ -98,8 +98,10 @@
 
 | AI | 하는 일 | 기반 skill | 상태 | 제작기 |
 |:--|:--|:--|:--:|:--:|
-| 📝 회고 전용 | 미션 · 프로젝트 회고 글 작성 (인터뷰 → 구조 합의 → 꼭지별 초안) | `mission-retrospective` | 사용 중 | 예정 |
-| 🧪 기술 블로그 전용 | 기술 노트 글 작성 (공식 문서 + 본인 실측 수치) | `tech-learning-note` | 사용 중 | 예정 |
-| 🎓 우테코 답변 전용 | 우테코 사전학습 · 토론 활동 산출물 답변 작성 | `mission-pre-study` | 다듬는 중 | 예정 |
+| 📝 회고 전용 | 미션 · 프로젝트 회고 글 작성 (인터뷰 → 구조 합의 → 꼭지별 초안) | [`mission-retrospective`](https://github.com/johnprk-AI/skills/tree/main/mission-retrospective) | 사용 중 | 예정 |
+| 🧪 기술 블로그 전용 | 기술 노트 글 작성 (공식 문서 + 본인 실측 수치) | [`tech-learning-note`](https://github.com/johnprk-AI/skills/tree/main/tech-learning-note) | 사용 중 | 예정 |
+| 🎓 우테코 답변 전용 | 우테코 사전학습 · 토론 활동 산출물 답변 작성 | [`mission-pre-study`](https://github.com/johnprk-AI/skills/tree/main/mission-pre-study) | 다듬는 중 | 예정 |
 
 </div>
+
+<sub>전체 스킬 모음 → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a></sub>
