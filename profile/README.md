@@ -94,36 +94,14 @@
 > **반복하는 작업을 대신 맡기려고 만든, 나만의 전용 AI들. 지금까지 3개.**
 > 만든 이유 · 효과 · 제작 과정은 각 제작기 글로 이어집니다. <sub>(작성 예정)</sub>
 
-<br>
+<div align="center">
 
-### 📝 회고 전용 AI
+| AI | 하는 일 | 사용 방식 | 기반 skill | 상태 |
+|:--|:--|:--|:--|:--:|
+| 📝 회고 전용 | 미션 · 프로젝트 회고 글 작성 | 인터랙티브 (인터뷰로 단계마다 맞춤) | [`mission-retrospective`](https://github.com/johnprk-AI/skills/tree/main/mission-retrospective) | 사용 중 |
+| 🧪 기술 블로그 전용 | 기술 노트 글 작성 | 위임 (자료 주면 한 호흡에) | [`tech-learning-note`](https://github.com/johnprk-AI/skills/tree/main/tech-learning-note) | 사용 중 |
+| 🎓 우테코 답변 전용 | 우테코 사전학습 · 토론 산출물 작성 | 워크플로우 (정해진 형식대로) | [`mission-pre-study`](https://github.com/johnprk-AI/skills/tree/main/mission-pre-study) | 다듬는 중 |
 
-**미션 · 프로젝트를 끝낸 뒤, 그 경험을 회고 블로그 글로 남긴다.**
-
-미션이 끝나면 코드 · PR · 리뷰를 한 번에 넘긴다. AI는 바로 초안을 쓰지 않고, 3~4문씩 인터뷰로 내가 실제로 한 고민과 그때의 감정을 먼저 끌어낸다. 그다음 글의 구조(아웃라인 · 감정 흐름)를 같이 합의하고, 한 꼭지씩 순서대로 쓴다. 안 해본 시도를 지어내거나, 아직 체화하지 못한 걸 "깨달았다"로 부풀리지 않게 잡아주는 게 핵심이다.
-
-<sub>기반 skill <a href="https://github.com/johnprk-AI/skills/tree/main/mission-retrospective"><code>mission-retrospective</code></a> · 상태 <b>사용 중</b> · 제작기 (예정)</sub>
-
-<br>
-
-### 🧪 기술 블로그 전용 AI
-
-**작업하다 마주친 기술 주제(API 동작 · 프로토콜 · 도구 내부)를 담담하게 정리한다.**
-
-공식 문서 URL과 내 실측 자료(로그 · 메트릭 · 캡처)를 같이 넘긴다. "왜 이걸 보게 됐나" 한 줄 발단을 잡고, 인터뷰나 감정 없이 한 호흡에 본문을 쓴다. 숫자는 전부 내 실측치로 두고, 공식 문서는 짧게만 인용한다. 회고 톤이 섞여 수치가 부풀려지지 않도록 회고 AI와 일부러 분리해 뒀다.
-
-<sub>기반 skill <a href="https://github.com/johnprk-AI/skills/tree/main/tech-learning-note"><code>tech-learning-note</code></a> · 상태 <b>사용 중</b> · 제작기 (예정)</sub>
-
-<br>
-
-### 🎓 우테코 답변 전용 AI
-
-**우테코 미션 전, 사전학습 · 토론 활동 산출물을 대신 정리한다.**
-
-미션 시작 전에 LMS 자료와 답해야 할 질문을 넘긴다. 자료가 정한 형식(예: "사실 1개 + 문제 1개")을 가장 먼저 지키고, 결론을 닫지 않은 "토론 재료" 톤의 짧은 메모로 쓴다. 내 경험 재료가 없으면 내 PR · 블로그에서 직접 끌어와 채운다. 아직 내가 원하는 만큼 안 나와서 다듬는 중이다.
-
-<sub>기반 skill <a href="https://github.com/johnprk-AI/skills/tree/main/mission-pre-study"><code>mission-pre-study</code></a> · 상태 <b>다듬는 중</b> · 제작기 (예정)</sub>
-
-<br>
+</div>
 
 <sub>전체 스킬 모음 → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a></sub>
