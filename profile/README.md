@@ -12,17 +12,17 @@
   <tr>
     <td rowspan="10" width="44%"><img src="token-guardians-hero.png" width="100%" alt="토큰 지키미" /></td>
     <td width="20%"><b>소개</b></td>
-    <td>Claude · Codex · Gemini의 토큰 잔량을 메뉴바와 데스크탑 캐릭터로 실시간으로 보여주는 앱입니다. 질문을 보내면 5분 프롬프트 캐시 타이머가 돌아, 캐시 골든타임을 놓치지 않게 챙겨줍니다.</td>
+    <td>Claude · Codex의 토큰 잔량을 메뉴바와 데스크탑 캐릭터로 실시간으로 보여주는 앱입니다. 질문을 보내면 5분 프롬프트 캐시 타이머가 돌아, 캐시 골든타임을 놓치지 않게 챙겨줍니다.</td>
   </tr>
   <tr><td rowspan="3"><b>기능</b></td><td>데스크탑 캐릭터(펫) 및 메뉴바로 잔량 시각화</td></tr>
   <tr><td>5분 프롬프트 캐시 타이머</td></tr>
   <tr><td>6종 캐릭터 개발<br>(판다 · 고양이 · 햄스터 · 강아지 · 하마 · 병아리)</td></tr>
   <tr><td><b>지원 OS</b></td><td>macOS 11+ (서명 · 공증 완료) &nbsp;·&nbsp; Windows 11+</td></tr>
-  <tr><td><b>처음 만든 기간</b></td><td>2026.04 ~ 진행 중</td></tr>
+  <tr><td><b>개발 기간</b></td><td>2026.04 ~ 진행 중</td></tr>
   <tr><td><b>버전</b></td><td><code>v2.35.0</code></td></tr>
   <tr><td><b>소개 페이지</b></td><td><a href="https://johnprk.github.io/token-guardians/">바로가기 →</a></td></tr>
   <tr><td><b>회고</b></td><td><a href="https://johnprk.github.io/ai/token-guardians/">회고 페이지 →</a> <sub>(작성 중)</sub></td></tr>
-  <tr><td><b>제작</b></td><td>🤖 모든 코드 · 개발은 <b>Claude Code</b>로, 캐릭터 · 이미지 디자인은 <b>Gemini</b>로 작업했습니다.</td></tr>
+  <tr><td><b>제작</b></td><td>개발 : <b>Claude Code</b><br>디자인 : <b>Gemini</b></td></tr>
 </table>
 
 <br>
