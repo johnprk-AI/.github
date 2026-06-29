@@ -94,14 +94,40 @@
 > **반복하는 작업을 대신 맡기려고 만든, 나만의 전용 AI들. 지금까지 3개.**
 > 만든 이유 · 효과 · 제작 과정은 각 제작기 글로 이어집니다. <sub>(작성 예정)</sub>
 
-<div align="center">
+#### 📝 회고 전용 AI
 
-| AI | 하는 일 | 사용 방식 | 기반 skill | 상태 |
-|:--|:--|:--|:--|:--:|
-| 📝 회고 전용 | 미션 · 프로젝트 회고 글 작성 | 인터랙티브 (인터뷰로 단계마다 맞춤) | [`mission-retrospective`](https://github.com/johnprk-AI/skills/tree/main/mission-retrospective) | 사용 중 |
-| 🧪 기술 블로그 전용 | 기술 노트 글 작성 | 위임 (자료 주면 한 호흡에) | [`tech-learning-note`](https://github.com/johnprk-AI/skills/tree/main/tech-learning-note) | 사용 중 |
-| 🎓 우테코 답변 전용 | 우테코 사전학습 · 토론 산출물 작성 | 워크플로우 (정해진 형식대로) | [`mission-pre-study`](https://github.com/johnprk-AI/skills/tree/main/mission-pre-study) | 다듬는 중 |
+<table>
+  <tr><td width="130"><b>하는 일</b></td><td>미션 · 프로젝트 회고 글 작성</td></tr>
+  <tr><td><b>사용 방식</b></td><td><b>인터랙티브</b> (인터뷰로 단계마다 맞춤)</td></tr>
+  <tr><td><b>기반 skill</b></td><td><a href="https://github.com/johnprk-AI/skills/tree/main/mission-retrospective"><code>mission-retrospective</code></a></td></tr>
+  <tr><td><b>상태</b></td><td>사용 중</td></tr>
+  <tr><td><b>제작기</b></td><td>예정</td></tr>
+</table>
 
-</div>
+<br>
+
+#### 🧪 기술 블로그 전용 AI
+
+<table>
+  <tr><td width="130"><b>하는 일</b></td><td>기술 노트 글 작성</td></tr>
+  <tr><td><b>사용 방식</b></td><td><b>위임</b> (자료 주면 한 호흡에)</td></tr>
+  <tr><td><b>기반 skill</b></td><td><a href="https://github.com/johnprk-AI/skills/tree/main/tech-learning-note"><code>tech-learning-note</code></a></td></tr>
+  <tr><td><b>상태</b></td><td>사용 중</td></tr>
+  <tr><td><b>제작기</b></td><td>예정</td></tr>
+</table>
+
+<br>
+
+#### 🎓 우테코 답변 전용 AI
+
+<table>
+  <tr><td width="130"><b>하는 일</b></td><td>우테코 사전학습 · 토론 산출물 작성</td></tr>
+  <tr><td><b>사용 방식</b></td><td><b>워크플로우</b> (정해진 형식대로)</td></tr>
+  <tr><td><b>기반 skill</b></td><td><a href="https://github.com/johnprk-AI/skills/tree/main/mission-pre-study"><code>mission-pre-study</code></a></td></tr>
+  <tr><td><b>상태</b></td><td>다듬는 중</td></tr>
+  <tr><td><b>제작기</b></td><td>예정</td></tr>
+</table>
+
+<br>
 
 <sub>전체 스킬 모음 → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a></sub>
