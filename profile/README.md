@@ -1,11 +1,9 @@
-# AI 생활 체조 원칙 - 나는 AI를 이렇게 씁니다
-
-<sub>(2026.06.30 기준 · 생각은 계속 바뀌어서 기입일을 남깁니다)</sub>
+## 🤸🏻 AI 생활 체조 원칙(나는 AI를 이렇게 씁니다)
 
 <table>
   <tr>
-    <th width="24%">구분</th>
-    <th>원칙</th>
+    <th width="160">구분</th>
+    <th width="600">원칙</th>
   </tr>
   <tr>
     <td><b>무엇을 위해</b></td>
@@ -27,7 +25,9 @@
   <tr><td>9. 학습 자체는 위임하지 않는다</td></tr>
 </table>
 
-<sub>각 원칙의 자세한 설명 → <a href="https://github.com/johnprk-AI/ai-calisthenics"><b>johnprk-AI/ai-calisthenics</b></a></sub>
+<br>
+
+[각 원칙의 자세한 설명] → <a href="https://github.com/johnprk-AI/ai-calisthenics"><b>AI 생활 체조 원칙</b></a>
 
 <br><br>
 
