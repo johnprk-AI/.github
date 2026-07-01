@@ -87,7 +87,7 @@
 
 <br>
 
-## 🧩 전용 AI (Skills & Hooks)
+## 🧩 전용 AI (Skills · Hooks · Rules)
 
 ### 🧠 Skills — 반복 작업을 대신 맡는 전용 AI
 
@@ -179,3 +179,27 @@
 <br>
 
 > [훅 소스] → <a href="https://github.com/johnprk-AI/hooks"><b>johnprk-AI/hooks</b></a>
+
+### 📋 Rules — Claude에게 준 공통 지침 (CLAUDE.md)
+
+<table>
+  <tr>
+    <th nowrap>범위</th>
+    <th nowrap>어디서 로드</th>
+    <th width="9999">담은 규칙</th>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/claude-md/blob/main/global/CLAUDE.md"><code>global</code></a></td>
+    <td nowrap>모든 세션</td>
+    <td>회고 · 블로그 글쓰기 규칙 (em dash 금지 · 평범한 어휘 · 완결형 문장 · before/after 코드)</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/claude-md/blob/main/woowacourse/CLAUDE.md"><code>woowacourse</code></a></td>
+    <td nowrap>우테코 미션 레포</td>
+    <td>Java 작업 규칙 (커밋 메시지 · diff 보여주기 · 커밋 자동금지 · import 레이아웃 · 테스트 네이밍)</td>
+  </tr>
+</table>
+
+<br>
+
+> [규칙 전문] → <a href="https://github.com/johnprk-AI/claude-md"><b>johnprk-AI/claude-md</b></a>
