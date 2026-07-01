@@ -1,4 +1,4 @@
-## 🧠 관점 (Perspective)
+## 🧠 AI 철학
 
 ### 🤸🏻 AI 생활 체조 원칙
 
@@ -27,13 +27,13 @@
   <tr><td>9. AI는 학습을 도울 수 있지만, 이해하는 과정은 대신하지 못한다</td></tr>
 </table>
 
-<br>
-
 > [각 원칙의 자세한 설명] → <a href="https://github.com/johnprk-AI/ai-calisthenics"><b>AI 생활 체조 원칙</b></a>
 
-<br><br>
+<br>
+<br>
+<br>
 
-## 🖥 앱 (Apps)
+## 🖥 앱
 
 ### 🐼 토큰 지키미 (Token Guardians)
 
@@ -83,13 +83,12 @@
 </table>
 
 <br>
-
-
+<br>
 <br>
 
-## 🧩 전용 AI (Skills · Hooks · Rules)
+## ⚙️ AI 도구
 
-### 🧠 Skills — 반복 작업을 대신 맡는 전용 AI
+### 🤖 Skills
 
 <table>
   <tr>
@@ -143,11 +142,11 @@
   </tr>
 </table>
 
+> [전체 스킬 Source] → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a> 
+<br>
 <br>
 
-> [전체 스킬 · 제작기] → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a> <sub>(제작기 작성 예정)</sub>
-
-### 🪝 Hooks — 매 작업에 자동으로 끼어드는 규칙
+### 🪝 Hooks
 
 <table>
   <tr>
@@ -176,11 +175,14 @@
   </tr>
 </table>
 
+
+> [전체 훅 Source] → <a href="https://github.com/johnprk-AI/hooks"><b>johnprk-AI/hooks</b></a>
+
+
+<br>
 <br>
 
-> [훅 소스] → <a href="https://github.com/johnprk-AI/hooks"><b>johnprk-AI/hooks</b></a>
-
-### 📋 Rules — Claude에게 준 공통 지침 (CLAUDE.md)
+### 🛠️ Rules(CLAUDE.md, ...)
 
 <table>
   <tr>
@@ -200,6 +202,7 @@
   </tr>
 </table>
 
-<br>
 
-> [규칙 전문] → <a href="https://github.com/johnprk-AI/claude-md"><b>johnprk-AI/claude-md</b></a>
+> [규칙 Source] → <a href="https://github.com/johnprk-AI/claude-md"><b>johnprk-AI/claude-md</b></a>
+
+<br>
