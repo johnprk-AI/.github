@@ -87,19 +87,95 @@
 
 <br>
 
-## 🧩 전용 AI (Skills)
+## 🧩 전용 AI (Skills & Hooks)
 
-> **반복하는 작업을 대신 맡기려고 만든, 나만의 전용 AI들. 지금까지 3개.**
-> 만든 이유 · 효과 · 제작 과정은 각 제작기 글로 이어집니다. <sub>(작성 예정)</sub>
+### 🧠 Skills — 반복 작업을 대신 맡는 전용 AI
 
-<div align="center">
+<table>
+  <tr>
+    <th nowrap>스킬</th>
+    <th nowrap>분류</th>
+    <th width="9999">하는 일</th>
+    <th nowrap>사용 방식</th>
+    <th nowrap>상태</th>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/mission-retrospective"><code>mission-retrospective</code></a></td>
+    <td nowrap align="center">✍️ 글쓰기</td>
+    <td>미션 · 프로젝트 회고 글 작성</td>
+    <td nowrap>인터랙티브</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/tech-learning-note"><code>tech-learning-note</code></a></td>
+    <td nowrap align="center">✍️ 글쓰기</td>
+    <td>기술 노트 글 작성</td>
+    <td nowrap>위임</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/mission-pre-study"><code>mission-pre-study</code></a></td>
+    <td nowrap align="center">✍️ 글쓰기</td>
+    <td>우테코 사전학습 · 토론 산출물 작성</td>
+    <td nowrap>워크플로우</td>
+    <td nowrap align="center">다듬는 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/panda"><code>panda</code></a></td>
+    <td nowrap align="center">🛠️ 자동화</td>
+    <td>기능 · 버전 체크리스트 관리</td>
+    <td nowrap>워크플로우</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/skin-sheet-split"><code>skin-sheet-split</code></a></td>
+    <td nowrap align="center">🛠️ 자동화</td>
+    <td>캐릭터 8포즈 시트 → 스킨 분할 · 정렬</td>
+    <td nowrap>위임</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/skills/tree/main/algo-study"><code>algo-study</code></a></td>
+    <td nowrap align="center">🎓 학습</td>
+    <td>백준 알고리즘 소크라테스식 러너</td>
+    <td nowrap>인터랙티브</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+</table>
 
-| AI | 하는 일 | 사용 방식 | 기반 skill | 상태 |
-|:--|:--|:--|:--|:--:|
-| 📝 회고 전용 | 미션 · 프로젝트 회고 글 작성 | 인터랙티브 (인터뷰로 단계마다 맞춤) | [`mission-retrospective`](https://github.com/johnprk-AI/skills/tree/main/mission-retrospective) | 사용 중 |
-| 🧪 기술 블로그 전용 | 기술 노트 글 작성 | 위임 (자료 주면 한 호흡에) | [`tech-learning-note`](https://github.com/johnprk-AI/skills/tree/main/tech-learning-note) | 사용 중 |
-| 🎓 우테코 답변 전용 | 우테코 사전학습 · 토론 산출물 작성 | 워크플로우 (정해진 형식대로) | [`mission-pre-study`](https://github.com/johnprk-AI/skills/tree/main/mission-pre-study) | 다듬는 중 |
+<br>
 
-</div>
+> [전체 스킬 · 제작기] → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a> <sub>(제작기 작성 예정)</sub>
 
-<sub>전체 스킬 모음 → <a href="https://github.com/johnprk-AI/skills"><b>johnprk-AI/skills</b></a></sub>
+### 🪝 Hooks — 매 작업에 자동으로 끼어드는 규칙
+
+<table>
+  <tr>
+    <th nowrap>훅</th>
+    <th nowrap>시점</th>
+    <th width="9999">하는 일</th>
+    <th nowrap>상태</th>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/hooks/blob/main/retro-lint.py"><code>retro-lint</code></a></td>
+    <td nowrap>Write · Edit 직후</td>
+    <td>회고 · 블로그 문체 lint (em dash · 문학체 차단)</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/hooks/blob/main/gradle-bg-guard.py"><code>gradle-bg-guard</code></a></td>
+    <td nowrap>Bash 실행 전</td>
+    <td>gradle 명령 백그라운드 실행 가드</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+  <tr>
+    <td nowrap><a href="https://github.com/johnprk-AI/hooks/blob/main/notify-stop.sh"><code>notify-stop</code></a></td>
+    <td nowrap>턴 종료 시(Stop)</td>
+    <td>작업 끝나면 마지막 프롬프트를 폰으로 푸시</td>
+    <td nowrap align="center">사용 중</td>
+  </tr>
+</table>
+
+<br>
+
+> [훅 소스] → <a href="https://github.com/johnprk-AI/hooks"><b>johnprk-AI/hooks</b></a>
