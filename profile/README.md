@@ -1,33 +1,35 @@
-## 🤸🏻 AI 생활 체조 원칙(나는 AI를 이렇게 씁니다)
+## 🧠 관점 (Perspective)
+
+### 🤸🏻 AI 생활 체조 원칙
 
 <table>
   <tr>
-    <th nowrap width="180">구분</th>
-    <th>원칙</th>
+    <th nowrap width="1200">구분</th>
+    <th width="9999">원칙</th>
   </tr>
   <tr>
-    <td nowrap width="180"><b>무엇을 위해</b></td>
-    <td width="100%">1. 개발자는 결국 문제를 푸는 사람이다</td>
+    <td nowrap width="220"><b>무엇을 위해</b></td>
+    <td width="9999">1. 기술은 늘 문제를 풀기 위한 수단이었고 AI도 다르지 않기에, 내가 붙드는 건 여전히 문제 그 자체다</td>
   </tr>
   <tr>
-    <td rowspan="5" nowrap width="180"><b>어떻게 쓰고,<br>어떻게 성장하는가</b></td>
-    <td>2. AI는 블랙박스로 쓴다</td>
+    <td rowspan="5" nowrap width="220"><b>어떻게 쓰고,<br>어떻게 성장하는가</b></td>
+    <td>2. 과정까지 다 알아야 믿을 수 있는 게 아니라, 결과가 내가 원하는 모습이면 그걸로 충분하다</td>
   </tr>
-  <tr><td>3. 위임할 일과 그 경계를 명확히 한다</td></tr>
-  <tr><td>4. 위임한 일은 반드시 내가 검증한다</td></tr>
-  <tr><td>5. 검증할 실력을 늘 내가 갖고 있는다</td></tr>
-  <tr><td>6. 이 사이클을 도구로 돌리고, 돌 때마다 성장한다 <sub>(3 → 4 → 5 → 3)</sub></td></tr>
+  <tr><td>3. 내가 원하는 대로 나오게 하려면, 스크립트(지시)부터 정확히 써야 한다</td></tr>
+  <tr><td>4. 스크립트만으로 부족할 때는, AI가 제공하는 도구들까지 적극 활용한다</td></tr>
+  <tr><td>5. 스크립트와 도구가 아무리 좋아져도, 결과를 판별하는 기준은 결국 내 실력이다</td></tr>
+  <tr><td>6. 스크립트 쓰기, 도구 쓰기, 판단하기를 반복하면서, 하나하나 더 잘하려고 애쓴다 <sub>(3 → 4 → 5 → 3)</sub></td></tr>
   <tr>
-    <td rowspan="3" nowrap width="180"><b>무엇을 지키는가<br>(학습과 정확함)</b></td>
-    <td>7. 모르는 도메인·요구사항에는 AI를 쓰지 않는다</td>
+    <td rowspan="3" nowrap width="220"><b>무엇을 지키는가<br>(학습과 정확함)</b></td>
+    <td>7. 내가 이해하지 못한 도메인과 요구사항은 AI에게 맡기지 않는다</td>
   </tr>
-  <tr><td>8. 정확히 설명해야 하는 것은 내 손으로 정리한다</td></tr>
-  <tr><td>9. 학습 자체는 위임하지 않는다</td></tr>
+  <tr><td>8. 정확히 설명해야 하는 것은 AI를 멀리하고 내 손으로 정리한다</td></tr>
+  <tr><td>9. AI는 학습을 도울 수 있지만, 이해하는 과정은 대신하지 못한다</td></tr>
 </table>
 
 <br>
 
-[각 원칙의 자세한 설명] → <a href="https://github.com/johnprk-AI/ai-calisthenics"><b>AI 생활 체조 원칙</b></a>
+> [각 원칙의 자세한 설명] → <a href="https://github.com/johnprk-AI/ai-calisthenics"><b>AI 생활 체조 원칙</b></a>
 
 <br><br>
 
@@ -82,33 +84,8 @@
 
 <br>
 
-<table>
-  <tr>
-    <th colspan="2" align="left">📝&nbsp; todo-widget</th>
-  </tr>
-  <tr>
-    <td width="22%"><b>왜 만들었나</b></td>
-    <td>화면 위에 항상 반투명으로 떠 있는 가벼운 할 일 위젯이 필요해서</td>
-  </tr>
-  <tr>
-    <td><b>지원</b></td>
-    <td>반투명 오버레이 · 데스크톱 상주 · Electron</td>
-  </tr>
-  <tr>
-    <td><b>버전</b></td>
-    <td><code>v0.1.0</code></td>
-  </tr>
-  <tr>
-    <td><b>소개</b></td>
-    <td><a href="#">소개 페이지 →</a></td>
-  </tr>
-  <tr>
-    <td><b>회고</b></td>
-    <td><a href="#">회고 페이지 →</a></td>
-  </tr>
-</table>
 
-<br><br>
+<br>
 
 ## 🧩 전용 AI (Skills)
 
