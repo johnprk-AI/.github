@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <th width="160">구분</th>
-    <th width="600">원칙</th>
+    <th width="180">구분</th>
+    <th>원칙</th>
   </tr>
   <tr>
     <td><b>무엇을 위해</b></td>
-    <td>1. 개발자는 결국 문제를 푸는 사람이다</td>
+    <td width="100%">1. 개발자는 결국 문제를 푸는 사람이다</td>
   </tr>
   <tr>
     <td rowspan="5"><b>어떻게 쓰고,<br>어떻게 성장하는가</b></td>
