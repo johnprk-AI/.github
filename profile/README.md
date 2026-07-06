@@ -49,8 +49,8 @@
   <tr><td><b>지원 OS</b></td><td>macOS 11+ (서명 · 공증 완료) &nbsp;·&nbsp; Windows 11+</td></tr>
   <tr><td><b>개발 기간</b></td><td>2026.04 ~ 진행 중</td></tr>
   <tr><td><b>버전</b></td><td><code>v2.35.0</code></td></tr>
-  <tr><td><b>소개 페이지</b></td><td><a href="https://johnprk.github.io/token-guardians/">바로가기 →</a></td></tr>
-  <tr><td><b>회고</b></td><td><a href="https://johnprk.github.io/app/">회고 페이지 →</a> <sub>(작성 중)</sub></td></tr>
+  <tr><td><b>소개 페이지</b></td><td><a href="https://johnprk.github.io/token-guardians/"> 소개 페이지</a></td></tr>
+  <tr><td><b>회고</b></td><td><a href="https://johnprk.github.io/app/">회고 페이지</a></td></tr>
   <tr><td><b>제작</b></td><td>개발 : <b>Claude Code</b><br>디자인 : <b>Gemini</b></td></tr>
 </table>
 
