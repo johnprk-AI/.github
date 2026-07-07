@@ -60,6 +60,7 @@
 
 <table>
   <tr>
+    <td rowspan="11" width="44%"><img src="ai-usage-checkup-hero.png" width="100%" alt="AI 리포트" /></td>
     <td width="20%"><b>소개</b></td>
     <td>Claude Code · Codex를 얼마나 잘 쓰고 있는지 진단해주는 데스크탑 앱입니다. 내 컴퓨터에 남는 세션 로그를 전부 로컬에서 분석해 6축 점수 리포트를 만들고, 세션 내용·프롬프트는 어디로도 전송되지 않습니다.</td>
   </tr>
