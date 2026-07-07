@@ -56,31 +56,23 @@
 
 <br>
 
+### 📊 AI 리포트 (ai-usage-checkup)
+
 <table>
   <tr>
-    <th colspan="2" align="left">📊&nbsp; ai-usage-checkup</th>
+    <td width="20%"><b>소개</b></td>
+    <td>Claude Code · Codex를 얼마나 잘 쓰고 있는지 진단해주는 데스크탑 앱입니다. 내 컴퓨터에 남는 세션 로그를 전부 로컬에서 분석해 6축 점수 리포트를 만들고, 세션 내용·프롬프트는 어디로도 전송되지 않습니다.</td>
   </tr>
-  <tr>
-    <td width="22%"><b>왜 만들었나</b></td>
-    <td>내 Claude Code 사용 습관을 객관적으로 보고, opus한테 코칭받으려고</td>
-  </tr>
-  <tr>
-    <td><b>지원</b></td>
-    <td>사용 패턴 분석 · opus 코칭 · 데스크탑 리포트</td>
-  </tr>
-  <tr>
-    <td><b>버전</b></td>
-    <td><code>v0.9.5</code></td>
-  </tr>
-  <tr>
-    <td><b>다운로드</b></td>
-    <td><a href="https://apps.apple.com/kr/app/ai-%EB%A6%AC%ED%8F%AC%ED%8A%B8/id6780314426?mt=12
-AI 리포트">앱스토어 다운로드</a></td>
-  </tr>
-  <tr>
-    <td><b>회고</b></td>
-    <td><a href="https://johnprk.github.io/ai-report/">회고 페이지</a></td>
-  </tr>
+  <tr><td rowspan="4"><b>기능</b></td><td>6축 점수 진단 (프롬프트 구체성 · 학습 주도성 · 오류 회복 등, 축별 점수 기준 공개)</td></tr>
+  <tr><td>핵심 지표 (토큰량 · 캐시 적중률 · 예상 비용 · 모델 믹스)</td></tr>
+  <tr><td>사용 내역 분류 (대화 내용으로 작업 의도 분석) · CLAUDE.md · 스킬 · 훅 인벤토리</td></tr>
+  <tr><td>익명 랭킹 (동의 시, LOL식 9티어 · 리더보드) · PDF 저장 · 점수 추이</td></tr>
+  <tr><td><b>지원 OS</b></td><td>macOS (App Store 출시 · 서명 · 공증 완료) &nbsp;·&nbsp; Windows</td></tr>
+  <tr><td><b>개발 기간</b></td><td>2026.06 ~ 진행 중</td></tr>
+  <tr><td><b>버전</b></td><td><code>v0.9.5</code></td></tr>
+  <tr><td><b>소개 페이지</b></td><td><a href="https://johnprk.github.io/ai-usage-checkup/">소개 페이지</a></td></tr>
+  <tr><td><b>회고</b></td><td><a href="https://johnprk.github.io/ai-report/">회고 페이지</a></td></tr>
+  <tr><td><b>제작</b></td><td>개발 : <b>Claude Code</b></td></tr>
 </table>
 
 <br>
