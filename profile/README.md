@@ -73,12 +73,13 @@
     <td><code>v0.9.5</code></td>
   </tr>
   <tr>
-    <td><b>소개</b></td>
-    <td><a href="#">소개 페이지 →</a></td>
+    <td><b>다운로드</b></td>
+    <td><a href="https://apps.apple.com/kr/app/ai-%EB%A6%AC%ED%8F%AC%ED%8A%B8/id6780314426?mt=12
+AI 리포트">앱스토어 다운로드</a></td>
   </tr>
   <tr>
     <td><b>회고</b></td>
-    <td><a href="#">회고 페이지 →</a></td>
+    <td><a href="https://johnprk.github.io/ai-report/">회고 페이지</a></td>
   </tr>
 </table>
 
